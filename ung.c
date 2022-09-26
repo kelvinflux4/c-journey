@@ -7,10 +7,10 @@ int main (void)
     {
         printf("Enter number");
         scanf("%d:", &a);
-        if(a<0)
-        {
-            break;
-        }
+            if(a<0)
+            {
+                break;
+            }
         sum=sum+a;
     }
     printf("%d:", sum);
