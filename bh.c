@@ -7,6 +7,7 @@ int main (void)
     {
         printf("Enter number");
         scanf("%d:", &a);
+        continue;
             if(a<0)
             {
                 break;

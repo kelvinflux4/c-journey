@@ -9,7 +9,7 @@ int main (void)
         scanf("%d:", &a);
             if(a<0)
             {
-                break;
+               continue;
             }
         sum=sum+a;
     }
