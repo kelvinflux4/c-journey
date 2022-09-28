@@ -13,7 +13,6 @@ int main()
     else
     { 
         printf("age %d\n", age);
-        //printf("Go home\n");
     }
     printf("out of if else");
     getch();
